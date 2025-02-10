@@ -6,7 +6,7 @@ Denna sida är byggd med **HTML, CSS och JavaScript** och hostad på **GitHub Pa
 ## 🔗 Live-version
 📍 **Besök hemsidan här:**  
 [https://Isabargabore-ab.github.io/](https://Isabargabore-ab.github.io/)
-
+hej!!!!!!!!!
 ## 📌 Om Projektet
 Detta projekt är en statisk webbplats som fungerar som företagets onlineplattform.  
 Här kan kunder och besökare få information om våra tjänster, produkter och kontaktuppgifter.
